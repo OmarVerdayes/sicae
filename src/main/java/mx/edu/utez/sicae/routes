@@ -1,0 +1,16 @@
+ESTURIANTES
+http://localhost:8080/api/student/
+MATERIAS
+http://localhost:8080/api/subject/
+MAESTROS
+http://localhost:8080/api/user/
+GRUPOS
+http://localhost:8080/api/group/
+CLASES
+http://localhost:8080/api/clas/
+QRS
+http://localhost:8080/api/qr/
+ASISTENCIAS
+http://localhost:8080/api/asistence/
+CARRERAS
+http://localhost:8080/api/career/
